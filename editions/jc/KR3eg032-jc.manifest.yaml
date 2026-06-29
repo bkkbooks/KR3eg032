@@ -1,0 +1,752 @@
+canonical_identifier: bkk:krp/KR3eg032/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eg032/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 溫熱暑疫全書
+  identifiers:
+    krp: KR3eg032
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg032.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg032_000-jc.yaml, hash: 'sha256:11e1b81772d9786097d886d82b6333f9296cd3645a1179c1a4b514a487fd5f4e'}
+  - {seq: 1, filename: KR3eg032_001-jc.yaml, hash: 'sha256:68bcfb57f8fb08f03674d1c986156fe9b6ec4f34d4df117b6a7a423049b2aba6'}
+  - {seq: 2, filename: KR3eg032_002-jc.yaml, hash: 'sha256:e0504c53fda7420ecc5ef9864b458d236e64c4319f3f0bec9277211619fe36c0'}
+  - {seq: 3, filename: KR3eg032_003-jc.yaml, hash: 'sha256:d466f7e24677e262a0c7aceacc3a6d53eac9e6d857fd146687e20d071c4b7b5b'}
+  - {seq: 4, filename: KR3eg032_004-jc.yaml, hash: 'sha256:a075904ab4e2b905258452c7bc070d00ce4f6b4b0936c7d41b68e9596b4c6431'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg032_000-jc.markers.yaml, hash: 'sha256:639382cdfb548f97054188412e514aabee80788b6a4520f1f61b28ea56406558'}
+  - {seq: 1, role: markers, filename: assets/KR3eg032_001-jc.markers.yaml, hash: 'sha256:41fcae3cf998a7a18929d6afa689e88e8c2c30f96344c00eb4312e873ad2c912'}
+  - {seq: 2, role: markers, filename: assets/KR3eg032_002-jc.markers.yaml, hash: 'sha256:0e8d3abacaf20df2735abfbd432f027141564c1f16b91663b189aa154c5a4202'}
+  - {seq: 3, role: markers, filename: assets/KR3eg032_003-jc.markers.yaml, hash: 'sha256:a525e5148d06bfb09ca99a41f37e5c7223b9f181b7723f1990f765cb7072e1f6'}
+  - {seq: 4, role: markers, filename: assets/KR3eg032_004-jc.markers.yaml, hash: 'sha256:dc5553eb1d008744c0fbb357469d0f1a500304bb1ed25f4f84b36787417d9d79'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg032_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 1445
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg032_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 7498
+  label: 卷一溫病方論
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg032_jc_001-d3d70
+    span:
+    - body
+    - 2322
+    - 4097
+  label: 春溫集補證治並方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg032_jc_001-d3.d70d24
+    span:
+    - body
+    - 2625
+    - 2769
+  label: 附風溫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eg032_jc_001-d3.d70d25
+    span:
+    - body
+    - 2769
+    - 3092
+  label: 附冬溫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eg032_jc_001-d3.d70d26
+    span:
+    - body
+    - 3092
+    - 3365
+  label: 附溫瘧
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eg032_jc_001-d3.d70d27
+    span:
+    - body
+    - 3365
+    - 3821
+  label: 附溫毒發斑
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eg032_jc_001-d3.d70d28
+    span:
+    - body
+    - 3821
+    - 4097
+  label: 附醫案三則
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eg032_jc_001-d3d71
+    span:
+    - body
+    - 4097
+    - 5605
+  label: 春溫病論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg032_jc_001-d3d72
+    span:
+    - body
+    - 5605
+    - 5833
+  label: 溫熱病脈論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg032_jc_001-d3d73
+    span:
+    - body
+    - 5833
+    - 7498
+  label: 溫病方五道
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg032_jc_001-d3.d73d4
+    span:
+    - body
+    - 5864
+    - 7498
+  label: 附集方二十九道
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg032_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 5676
+  label: 卷二熱病方論
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eg032_jc_002-d4d66
+    span:
+    - body
+    - 2035
+    - 2622
+  label: 夏熱集補證治並方
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg032_jc_002-d4d67
+    span:
+    - body
+    - 2622
+    - 4697
+  label: 總論溫熱死脈死證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg032_jc_002-d4.d67d38
+    span:
+    - body
+    - 3396
+    - 3784
+  label: 附濕溫
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg032_jc_002-d4.d67d39
+    span:
+    - body
+    - 3784
+    - 3975
+  label: 附陽毒發斑
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg032_jc_002-d4.d67d40
+    span:
+    - body
+    - 3975
+    - 4697
+  label: 附陰毒發斑
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg032_jc_002-d4d68
+    span:
+    - body
+    - 4697
+    - 5122
+  label: 夏熱病論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg032_jc_002-d4d69
+    span:
+    - body
+    - 5122
+    - 5676
+  label: 熱病方四道
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg032_jc_002-d4.d69d4
+    span:
+    - body
+    - 5147
+    - 5676
+  label: 附集方一十八道
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 11495
+  label: 卷三暑病方論
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d22
+    span:
+    - body
+    - 1337
+    - 2024
+  label: 脈理
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d23
+    span:
+    - body
+    - 2024
+    - 2747
+  label: 辨寒暑各異
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d24
+    span:
+    - body
+    - 2747
+    - 2823
+  label: 暑中二陽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d25
+    span:
+    - body
+    - 2823
+    - 2970
+  label: 常暑
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d26
+    span:
+    - body
+    - 2970
+    - 3203
+  label: 動暑
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d27
+    span:
+    - body
+    - 3203
+    - 3466
+  label: 靜暑
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d28
+    span:
+    - body
+    - 3466
+    - 3501
+  label: 夾水傷暑
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d29
+    span:
+    - body
+    - 3501
+    - 3618
+  label: 內傷夾暑
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d30
+    span:
+    - body
+    - 3618
+    - 3731
+  label: 伏暑
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d31
+    span:
+    - body
+    - 3731
+    - 3906
+  label: 暑風
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d32
+    span:
+    - body
+    - 3906
+    - 4008
+  label: 暑瘍
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d33
+    span:
+    - body
+    - 4008
+    - 4138
+  label: 暑瘵
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d34
+    span:
+    - body
+    - 4138
+    - 4214
+  label: 暑瘡
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d35
+    span:
+    - body
+    - 4214
+    - 4275
+  label: 暑痿
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d36
+    span:
+    - body
+    - 4275
+    - 4393
+  label: 絞腸沙
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d37
+    span:
+    - body
+    - 4393
+    - 4510
+  label: 霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d38
+    span:
+    - body
+    - 4510
+    - 4887
+  label: 乾霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d39
+    span:
+    - body
+    - 4887
+    - 5040
+  label: 服藥總法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d40
+    span:
+    - body
+    - 5040
+    - 5435
+  label: 李東垣暑傷胃氣論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d41
+    span:
+    - body
+    - 5435
+    - 6230
+  label: 王宇泰復立清暑益氣變證加減法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d42
+    span:
+    - body
+    - 6230
+    - 6573
+  label: 朱丹溪辨動靜二暑
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d43
+    span:
+    - body
+    - 6573
+    - 6736
+  label: 方古庵論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d44
+    span:
+    - body
+    - 6736
+    - 9304
+  label: 王安道中暑中熱辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5.d44d4
+    span:
+    - body
+    - 7350
+    - 9304
+  label: 附醫案十三則
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d45
+    span:
+    - body
+    - 9304
+    - 9872
+  label: 暑病論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5d46
+    span:
+    - body
+    - 9872
+    - 11495
+  label: 暑病方二道
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg032_jc_003-d5.d46d4
+    span:
+    - body
+    - 9892
+    - 11495
+  label: 附集方二十九道
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 13556
+  label: 卷四疫病方論
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d128
+    span:
+    - body
+    - 4767
+    - 4877
+  label: 但表不里
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d129
+    span:
+    - body
+    - 4877
+    - 4957
+  label: 但里不表
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d130
+    span:
+    - body
+    - 4957
+    - 5014
+  label: 表而再表
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d131
+    span:
+    - body
+    - 5014
+    - 5102
+  label: 表裡分傳
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d132
+    span:
+    - body
+    - 5102
+    - 5166
+  label: 再表再里
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d133
+    span:
+    - body
+    - 5166
+    - 5275
+  label: 先表后里
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d134
+    span:
+    - body
+    - 5275
+    - 5386
+  label: 先里後表
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d135
+    span:
+    - body
+    - 5386
+    - 5430
+  label: 表證偏勝
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d136
+    span:
+    - body
+    - 5430
+    - 5812
+  label: 里證偏勝
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d137
+    span:
+    - body
+    - 5812
+    - 6119
+  label: 大頭瘟
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d138
+    span:
+    - body
+    - 6119
+    - 6210
+  label: 捻頸瘟
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d139
+    span:
+    - body
+    - 6210
+    - 6338
+  label: 瓜瓤瘟
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d140
+    span:
+    - body
+    - 6338
+    - 6543
+  label: 楊梅瘟
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d141
+    span:
+    - body
+    - 6543
+    - 6616
+  label: 疙瘩瘟
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d142
+    span:
+    - body
+    - 6616
+    - 6641
+  label: 絞腸瘟
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d143
+    span:
+    - body
+    - 6641
+    - 8814
+  label: 軟腳瘟
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6.d143d6
+    span:
+    - body
+    - 7248
+    - 8814
+  label: 附醫案十則
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d144
+    span:
+    - body
+    - 8814
+    - 12476
+  label: 疫病論
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6.d144d4
+    span:
+    - body
+    - 9426
+    - 10345
+  label: 附北海林先生題喻嘉言疫論序
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6.d144d5
+    span:
+    - body
+    - 10345
+    - 12476
+  label: 附喻嘉言瘟疫論
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6d145
+    span:
+    - body
+    - 12476
+    - 13556
+  label: 疾病方一十六道
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg032_jc_004-d6.d145d14
+    span:
+    - body
+    - 12556
+    - 13556
+  label: 附集方一十六道
+  type: section
+  level: 3
+hash: sha256:836d2ec7f61613da1f8fd5c31cf22e9560c78359571e719d3640c9cdf9ec7677
